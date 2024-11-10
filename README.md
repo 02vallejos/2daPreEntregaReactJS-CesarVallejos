@@ -4,7 +4,7 @@
 ### Comisión : 63375
 ### Alumno : César David Vallejos
 
-### Primera pre entrega - Tienda E-comerce
+### Segunda pre entrega - Tienda E-comerce
 
 - Uso de los Hook
 - Uso de la navegabilidad
